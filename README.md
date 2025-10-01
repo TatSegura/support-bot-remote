@@ -1,7 +1,6 @@
 # Support Bot Remote – Módulo Web (JSP/Servlets)
 
 **Aprendiz:** Tatiana Segura  
-**Evidencia:** GA7-220501096-AA3-EV01  
 
 ## Descripción
 Módulo web de autenticación con pantalla de bienvenida para el proyecto **Support Bot Remote**.  
